@@ -1,4 +1,4 @@
-# Olá, eu sou a Lore! 👋  
+# Olá, me chamo Lorena! 👋  
 
 🎓 Estudante de Engenharia de Software na UCB  
 💻 Explorando Python, SQL e Engenharia de Dados  
